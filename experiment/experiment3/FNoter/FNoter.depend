@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1463790891 source:d:\program files (x86)\codeblocks\code\fnoter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1249663643 d:\program files\mysql\mysql server 5.7\mysql32lib\include\mysql_version.h
+	<custom_conf.h>
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\mysql_com.h
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\mysql_time.h
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\my_list.h
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\typelib.h
+	"my_alloc.h"
+
+1249648272 d:\program files\mysql\mysql server 5.7\mysql32lib\include\my_alloc.h
+

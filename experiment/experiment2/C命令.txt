@@ -1,0 +1,9 @@
+1.company_query –q 1 -p P1
+2.company_query –q 2 -p 哈同公路
+3.company_query –q 3 -p 财务部
+4.company_query –q 4 -p 研发部 3000
+5.company_query –q 5 -p P1
+6.company_query –q 6 -p 张红
+7.company_query –q 7 -p P1 P2
+8.company_query –q 8 -p 3000
+9.company_query –q 9 -p 3 8
